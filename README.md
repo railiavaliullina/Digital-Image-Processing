@@ -4,18 +4,28 @@
 
 The following algorithms were implemented:
 
-*Assignment 1)*
+## Assignment 1
 
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
 
-2) Contrast Limited Adaptive Histogram Equalization Algorithm (CLAHE), 
+## Assignment 2
 
-from paper: Pizer S. M. et al. Adaptive histogram equalization and its variations;
+Contrast Limited Adaptive Histogram Equalization Algorithm (CLAHE), 
 
-3) Otsu and Sauvola binarization algorithms;
+The paper: Pizer S. M. et al. Adaptive histogram equalization and its variations;
 
-4) Digital Image Forgery Detection Using JPEG Features and Local Noise Discrepancies [https://www.hindawi.com/journals/tswj/2014/230425/];
+## Assignment 3
 
-5) Canny Edge search algorithm, Two Pass Connected Components Labeling;
+Otsu and Sauvola binarization algorithms;
 
-6) Algorithm for finding the “correct” text orientation using the Fourier transform for images;
+## Assignment 4
+
+Digital Image Forgery Detection Using JPEG Features and Local Noise Discrepancies [https://www.hindawi.com/journals/tswj/2014/230425/];
+
+## Assignment 5
+
+Canny Edge search algorithm, Two Pass Connected Components Labeling;
+
+## Assignment 6
+
+Algorithm for finding the “correct” text orientation using the Fourier transform for images;
