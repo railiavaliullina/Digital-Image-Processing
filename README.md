@@ -5,6 +5,7 @@
 The following algorithms were implemented:
 
 *Assignment 1)*
+
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
 
 2) Contrast Limited Adaptive Histogram Equalization Algorithm (CLAHE), 
