@@ -34,4 +34,4 @@ Canny Edge search algorithm, Two Pass Connected Components Labeling;
 
 ## Assignment 6
 
-Algorithm for finding the “correct” text orientation using the Fourier transform for images;
+Algorithm for finding the “correct” text orientation using the Fourier transform for images.
