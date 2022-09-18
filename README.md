@@ -45,3 +45,8 @@ Algorithm for finding the “correct” text orientation using the Fourier trans
 
 ## Getting Started
 
+Implementation for each of assignments are in assignment-x directory;
+
+Parameters of algorithms can be changed in:
+
+        assignment-x/config.py
