@@ -4,7 +4,7 @@
 
 The following algorithms were implemented:
 
-## Assignment 1
+### Assignment 1
 
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
 
