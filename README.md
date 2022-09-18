@@ -4,9 +4,11 @@
 
 The following algorithms were implemented:
 
+
 ### Assignment 1
 
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
+
 
 ### Assignment 2
 
@@ -16,9 +18,11 @@ The paper:
 
     Pizer S. M. et al. Adaptive histogram equalization and its variations;
 
+
 ### Assignment 3
 
 Otsu and Sauvola binarization algorithms;
+
 
 ### Assignment 4
 
@@ -28,9 +32,11 @@ The paper:
     
     https://www.hindawi.com/journals/tswj/2014/230425/
 
+
 ### Assignment 5
 
 Canny Edge search algorithm, Two Pass Connected Components Labeling;
+
 
 ### Assignment 6
 
