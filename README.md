@@ -9,6 +9,9 @@ The following algorithms were implemented:
 
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
 
+After finding contours, they were obtained by bounding boxes;
+
+In the result image only green toys should be obtained by bounding boxes.
 
 ### Assignment 2
 
