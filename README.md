@@ -30,6 +30,16 @@ The paper:
 
 Otsu and Sauvola binarization algorithms;
 
+Results examples:
+- Otsu binarization
+![image](https://user-images.githubusercontent.com/113569606/191007222-50fc2085-9870-4717-a6be-91e3054dfbe7.png)
+
+- Sauvola binarization
+![image](https://user-images.githubusercontent.com/113569606/191007291-68d66025-c7d7-4861-b7de-835574f5fca9.png)
+
+All results are in:
+
+    assignment-3/
 
 ### Assignment 4
 
