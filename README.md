@@ -59,6 +59,15 @@ The paper:
 
 Canny Edge search algorithm, Two Pass Connected Components Labeling;
 
+Results example:
+
+![image](https://user-images.githubusercontent.com/113569606/191008108-243d695b-7bff-4eac-9831-f119c8b6efbc.png)
+
+
+All results are in:
+
+    assignment-5/
+
 
 ### Assignment 6
 
