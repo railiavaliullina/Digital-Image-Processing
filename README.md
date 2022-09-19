@@ -5,13 +5,17 @@
 The following algorithms were implemented:
 
 
-### Assignment 1
+### Assignment 1 (Segmentation by color)
 
 Contours search using the Suzuki algorithm (Suzuki S. et al. Topological structural analysis of digitized binary images by border);
 
 - After finding contours, they were obtained by bounding boxes;
 
 - In the result image only green toys should be obtained by bounding boxes.
+
+Result:
+![image](https://user-images.githubusercontent.com/113569606/191006904-8eebb249-43ec-484e-8fb9-5b325a812e99.png)
+
 
 ### Assignment 2
 
